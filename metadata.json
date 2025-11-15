@@ -1,0 +1,5 @@
+{
+  "name": "WordPress Order Dashboard",
+  "description": "This application allows you to easily view and manage orders from WordPress (WooCommerce). Users can see a list of orders, filter by status, and view detailed information for each order.",
+  "requestFramePermissions": []
+}
